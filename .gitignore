@@ -18,6 +18,9 @@ config.json
 *.csv
 *.xlsx
 
+# Loggfiler
+*.log
+
 # OSRM-data (stora kardfiler)
 osrm-data/
 
